@@ -6,7 +6,6 @@ sap.ui.define([
 	"sap/ui/model/json/JSONModel"
 ], function(Controller, MsgBox, MsgToast, SelectDialog, JSONModel) {
 	"use strict";
-	test
 	return Controller.extend("spiderman.controller.Add", {
 		onInit: function() {
 			this.oRouter = this.getOwnerComponent().getRouter();

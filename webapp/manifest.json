@@ -11,7 +11,7 @@
 		"ach": "FIN-AR-AC",
 		"dataSources": {
 			"anubhavService": {
-				"uri": "/sap/opu/odata/sap/ZODATA_AUTO_SRV/",
+				//"uri": "/sap/opu/odata/sap/ZODATA_AUTO_SRV/",
 				"type": "OData",
 				"settings": {}
 			}
